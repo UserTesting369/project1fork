@@ -2,6 +2,3 @@ task
 create page setting
 create page home
 task
-create dashboard
-
-
